@@ -20,6 +20,8 @@ Currently working as a **Junior Operations Analyst at Kearney**, leveraging **Sa
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/-Data%20Visualization-FAB040?style=for-the-badge&logo=tableau&logoColor=white)
 
+### 📊 My  Stats:
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dark)
 
 ❤️ **What I Love:**  
 - Automating workflows and improving **decision-making with data**  
